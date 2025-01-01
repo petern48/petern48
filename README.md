@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 To check out my open-source contributions, check out my open-source contributions below. At the time of this writing, these include PRs for repos such as ClickHouse, PyTorch Geometric, and Ray.
-- [open-source-contribs](https://petern48-io.vercel.app/open-source))
+- [open-source-contribs](https://petern48-io.vercel.app/open-source)
 
 To learn more about my previous and current work experiences, check out my LinkedIn below.
 - [LinkedIn](https://www.linkedin.com/in/peter-nguyen8)
